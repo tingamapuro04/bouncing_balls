@@ -77,7 +77,7 @@ class Ball {
   }
 }
 
-while (balls.length < 15) {
+while (balls.length < 10) {
   const size = random(10, 20);
   const ball = new Ball(
     random(0 + size, width - size),
