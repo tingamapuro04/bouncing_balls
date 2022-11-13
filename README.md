@@ -4,6 +4,9 @@
 
 - This is a javascript app where I use canvas api to draw balls of certain sizes and thereafter animating them to move allover the screen randomly.
 
+## Preview
+![](/images/bouncing.jpeg)
+
 ## Languages and Technologies used
 - Html5
 - Scss
