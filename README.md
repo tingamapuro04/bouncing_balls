@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 ## Bouncing Balls
 
 - This is a javascript app where I use canvas api to draw balls of certain sizes and thereafter animating them to move allover the screen randomly.
@@ -9,9 +11,9 @@
 - Canvas
 
 ** Alphonce Mobutu **
-[@LinkedIn](https://www.linkedin.com/in/adoyo-alphonce/)
-[@GitHub](https://github.com/tingamapuro04)
-[@Twitter](https://twitter.com/alphonce_mobutu)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/adoyo-alphonce/)
+- GitHub: [@GitHub](https://github.com/tingamapuro04)
+- Twitter: [@Twitter](https://twitter.com/alphonce_mobutu)
 
 If you would like to have this project locally in your machine , please follow the steps outlined below
 
@@ -27,5 +29,21 @@ If you would like to have this project locally in your machine , please follow t
 - git clone [bouncing balls](https://github.com/tingamapuro04/bouncing_balls.git)
 - Next run this
 - cd bouncing_balls/
-- and then run this
+
+## Setup
+
+- Run this
 - code . to open this project in the text editor of your choice. You can also do this manually depending on the text editor you are using
+- Now run npm install to install all the depencies for this particular project.
+
+## Contribution
+- If you wish to contribute to this project you can do so through the issue provided below
+- [Contributions](https://github.com/tingamapuro04/bouncing_balls/issues/2)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
