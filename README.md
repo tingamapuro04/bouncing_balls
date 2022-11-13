@@ -9,8 +9,9 @@
 - Scss
 - JavaScript
 - Canvas
+## Authors
 
-** Alphonce Mobutu **
+👤 **Alphonce Mobutu**
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/adoyo-alphonce/)
 - GitHub: [@GitHub](https://github.com/tingamapuro04)
 - Twitter: [@Twitter](https://twitter.com/alphonce_mobutu)
